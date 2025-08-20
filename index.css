@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h3{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    width: 155px;
+    background-color: #080001;
+    color: #F94F6D;
+    font-size: xx-large;
+    border-radius: 5px;
+}
+.add-score{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.add-score > button{
+    border: 1px solid black;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
