@@ -1,0 +1,2 @@
+# Scoreboard
+Game score tracker
